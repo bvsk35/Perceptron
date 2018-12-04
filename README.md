@@ -1,5 +1,5 @@
 # Perceptron
-## Author & Date: Sameer, 18/11/2018
+##### Author & Date: Sameer, 18/11/2018
 - Perceptron Learning Algorithm
 - This Repo contains two sets of code, one for classifying MNIST Digit Dataset and another simple 2D Two Linearly Separable classes. 
 - Main objective of this code is for learning how to write a program for Perceptron Learning Algorithm.
